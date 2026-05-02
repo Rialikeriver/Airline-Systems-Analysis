@@ -1,8 +1,7 @@
-Airline Operations Database System
-Project Overview
+Project Overview:
 This repository contains a full-stack relational database implementation designed to manage airline retail operations. The system handles customer profiles, inventory management, order processing, and line-item tracking. It features a normalized schema (3NF), complex analytical views, and optimized query logic.
 
-Technical Architecture
+Technical Architecture:
 The database is built on a relational model with five core entities designed to maintain data integrity and minimize redundancy:
 
 Customers: Stores demographic and contact information, including credit limits and geographic data.
